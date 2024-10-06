@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikk52&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikk52" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushikk52" alt="kaushikk52" /></a> </p>
+
 - 🔭 I’m currently working on [Estate corp](https://estate-corp.netlify.app/)
 
 - 🌱 I’m currently learning **Spring boot optimizations and react**
@@ -24,5 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushikk52&show_icons=true&locale=en" alt="kaushikk52" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushikk52&theme=dark" alt="kaushikk52" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushikk52&theme=default" alt="kaushikk52" /></p>
